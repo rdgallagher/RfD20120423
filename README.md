@@ -1,1 +1,4 @@
-DON'T READ ME!!!
+GA Class
+--------
+
+This is our new class
