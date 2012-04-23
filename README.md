@@ -1,4 +1,4 @@
 GA Class
 --------
 
-This is our new class
+This is our new BLUE class
